@@ -1,0 +1,25 @@
+This is basically where I will summarize my plan
+
+I inially wanted a sidescroller type game made in Phaser that featured enemies and hazards.
+
+I also wanted it to include lots of sound effects and different types of platforms, so that the game would feel unique.
+
+I ran into problems when the platforms werent spawning in like they should after you would walk away from spawn.
+
+After about a week, I noticed that the progress I made on this project was very little, 
+so I decided to make it a bit easier on my self and instead add the things that I wanted in 
+my sidescroller on the Infinite Jumper we built on the tutorial.
+
+In the Infinite jumper game I was able to do everything I wanted, except for unique platforms, which
+ended up being to big of a challenge for me to code on to this project. So I eventually stopped working on that.
+
+One thing I did acidently was code in the falling enemy, it was originally suppose to be just one type of enemy
+that would sit and jump on a random platform, but I had issues getting the guy to spawn in later in the game. I then 
+tried making a different enemy that would spawn from the platforms which would help me with the spawn issues I had, but I forgot
+to code in physics so it just fell, I ended up liking this so I kept this enemy while eventually finding a solution to the originally
+problem I had.
+
+Im pretty happy with how the final project turned out, even though you can clearly see the Infinite Jumper game
+here, I think I added enough things to make it feel like a major improvement.
+
+
