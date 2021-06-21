@@ -1,7 +1,7 @@
 //This game is meant to be an improved version of the bunny jump game from the phaser tutorial
 import Phaser from '../lib/phaser.js'
 
-import Carrot from '../game/Carrot.js'
+import Carrot from '../game/carrot.js'
 
 import Enemy from '../game/enemy.js'
 
